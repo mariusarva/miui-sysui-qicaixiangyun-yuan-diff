@@ -1,0 +1,157 @@
+### 仅原版 (A only) 2
+res/drawable/ic_reboot_small.xml
+res/drawable/ic_shutdown_small.xml
+
+### 仅改版 (B only) 75
+blackscreen/airplane_off.xml
+blackscreen/airplane_on.xml
+blackscreen/background_off.xml
+blackscreen/background_on.xml
+blackscreen/background_on_airplane.xml
+blackscreen/background_on_cell.xml
+blackscreen/background_on_white.xml
+blackscreen/bt_off.xml
+blackscreen/bt_on.xml
+blackscreen/bt_semi.xml
+blackscreen/cell_off.xml
+blackscreen/cell_on.xml
+blackscreen/dnd_arrow.xml
+blackscreen/dots.xml
+blackscreen/edit_add.xml
+blackscreen/flashlight_off.xml
+blackscreen/flashlight_on.xml
+blackscreen/gps_off.xml
+blackscreen/gps_on.xml
+blackscreen/heart.xml
+blackscreen/hotspot_off.xml
+blackscreen/hotspot_on.xml
+blackscreen/mainpage.xml
+blackscreen/mishare_off.xml
+blackscreen/mishare_on.xml
+blackscreen/music.xml
+blackscreen/mute_off.xml
+blackscreen/mute_on.xml
+blackscreen/network.xml
+blackscreen/nfc_off.xml
+blackscreen/nfc_on.xml
+blackscreen/power.xml
+blackscreen/power_menu.xml
+blackscreen/power_press.xml
+blackscreen/quiet_off.xml
+blackscreen/quiet_on.xml
+blackscreen/reboot.xml
+blackscreen/rotation_off.xml
+blackscreen/rotation_on.xml
+blackscreen/wifi_off.xml
+blackscreen/wifi_on.xml
+blackscreen/wifi_semi.xml
+classes3.dex
+res/drawable/$ic_media_next__5.xml
+res/drawable/$ic_media_prev__5.xml
+res/drawable/ic_airplane_off.xml
+res/drawable/ic_airplane_on.xml
+res/drawable/ic_bootloader.xml
+res/drawable/ic_mask_airplane.xml
+res/drawable/ic_mask_bootloader.xml
+res/drawable/ic_mask_recovery.xml
+res/drawable/ic_mask_silent.xml
+res/drawable/ic_qs_5g_tile.xml
+res/drawable/ic_qs_app_add.xml
+res/drawable/ic_qs_dim_tile.xml
+res/drawable/ic_qs_fold_tile.xml
+res/drawable/ic_qs_fold_up.xml
+res/drawable/ic_qs_nr5g.xml
+res/drawable/ic_qs_perf_off.xml
+res/drawable/ic_qs_perf_on.xml
+res/drawable/ic_qs_power_tile.xml
+res/drawable/ic_qs_restart_tile.xml
+res/drawable/ic_qs_restartlauncher_tile.xml
+res/drawable/ic_qs_saver_off.xml
+res/drawable/ic_qs_saver_on.xml
+res/drawable/ic_qs_sun_tile.xml
+res/drawable/ic_recovery.xml
+res/layout/miplay_detail_device_item_land_big.xml
+res/layout/qs_control_detail_header_metainfo_layout_portrait_big.xml
+res/layout/qs_control_detail_miplay_content_portrait_big.xml
+res/layout/qs_control_detail_miplay_device_item_portrait_big.xml
+res/layout/qs_control_detail_miplay_device_volume_item_portrait_big.xml
+res/layout/qs_control_detail_miplay_header_portrait_big.xml
+res/raw/ios_music_pause.json
+res/raw/ios_music_wave.json
+
+### 内容变化 (modified) 75
+classes.dex  (8658152, 4067988482) -> (8835888, 574552514)
+classes2.dex  (7555316, 632447939) -> (7774668, 767427221)
+res/animator/sysui_anim_rotation_1step_560e.xml  (648, 1764461183) -> (648, 3007955781)
+res/drawable-anydpi/ic_vol_mute.xml  (948, 2753171051) -> (812, 1415453596)
+res/drawable-anydpi/ic_vol_unmute.xml  (764, 3153484650) -> (1868, 2336670060)
+res/drawable/$ic_brightness_slider_animate_icon__0.xml  (8956, 3173176570) -> (5800, 3778451636)
+res/drawable/$ic_brightness_slider_animate_icon__1.xml  (1996, 1600200119) -> (1128, 343888826)
+res/drawable/$ic_brightness_slider_animate_icon__2.xml  (1944, 3311930057) -> (1108, 759497145)
+res/drawable/$ic_brightness_slider_animate_icon__3.xml  (1948, 3089922853) -> (1104, 1139707903)
+res/drawable/$ic_brightness_slider_animate_icon__4.xml  (1892, 1892220128) -> (1096, 2423368872)
+res/drawable/$ic_brightness_slider_animate_icon__5.xml  (1888, 3138666187) -> (1096, 2873993209)
+res/drawable/$ic_brightness_slider_animate_icon__6.xml  (1844, 2752035025) -> (1076, 3741430892)
+res/drawable/$ic_brightness_slider_animate_icon__7.xml  (1860, 1069787079) -> (1076, 1558344776)
+res/drawable/$ic_brightness_slider_animate_icon__8.xml  (1800, 3005259067) -> (1068, 1947022922)
+res/drawable/$ic_media_next__0.xml  (2804, 2958682000) -> (2640, 3889595556)
+res/drawable/$ic_media_next__2.xml  (2104, 3708913051) -> (1464, 3624963533)
+res/drawable/$ic_media_prev__0.xml  (2796, 781640329) -> (2620, 3685424386)
+res/drawable/$ic_media_prev__2.xml  (2116, 1982213637) -> (1860, 2113245195)
+res/drawable/$ic_volume_slider_animate_icon__0.xml  (8360, 2961596772) -> (3912, 2285747074)
+res/drawable/$ic_volume_slider_animate_icon__1.xml  (944, 3616176519) -> (1340, 4277687685)
+res/drawable/$ic_volume_slider_animate_icon__10.xml  (1096, 1306204690) -> (848, 567571058)
+res/drawable/$ic_volume_slider_animate_icon__11.xml  (944, 3965343670) -> (848, 2250201055)
+res/drawable/$ic_volume_slider_animate_icon__12.xml  (824, 3397042229) -> (848, 141477451)
+res/drawable/$ic_volume_slider_animate_icon__14.xml  (704, 3503034952) -> (848, 2657447711)
+res/drawable/$ic_volume_slider_animate_icon__5.xml  (1524, 898839800) -> (848, 269811339)
+res/drawable/$ic_volume_slider_animate_icon__6.xml  (3060, 3064771431) -> (1848, 716856087)
+res/drawable/$ic_volume_slider_animate_icon__7.xml  (944, 1197253200) -> (1440, 3744312785)
+res/drawable/$ic_volume_slider_animate_icon__8.xml  (1732, 2239527233) -> (956, 159155439)
+res/drawable/$ic_volume_slider_animate_icon__9.xml  (2076, 1252810387) -> (1392, 1493214688)
+res/drawable/external_entry_background.xml  (448, 1370118046) -> (448, 2156020999)
+res/drawable/ic_mask.xml  (524, 434341484) -> (524, 2167543519)
+res/drawable/ic_mask_reboot.xml  (484, 3339012321) -> (484, 3854416446)
+res/drawable/ic_mask_shutdown.xml  (484, 1646763865) -> (484, 1887420355)
+res/drawable/ic_media_device_default.xml  (2980, 1608930155) -> (2360, 1462211502)
+res/drawable/ic_miplay_earphones_light.xml  (2992, 1442575170) -> (4444, 572072164)
+res/drawable/ic_miplay_speaker_light.xml  (2756, 145826255) -> (2756, 983529550)
+res/drawable/ic_miui_volume_headset.xml  (1568, 2470861626) -> (4040, 4076516958)
+res/drawable/ic_miui_volume_headset_mute.xml  (2516, 3348677652) -> (4040, 4076516958)
+res/drawable/ic_miui_volume_media_animate_icon.xml  (2492, 3813539325) -> (1676, 2512813530)
+res/drawable/ic_qs_aisubtitles.xml  (1096, 1005600740) -> (5628, 2807107278)
+res/drawable/ic_qs_dolby_atoms_disable.xml  (884, 855965681) -> (5040, 1507567209)
+res/drawable/ic_qs_dolby_atoms_enable.xml  (884, 560386924) -> (5040, 1507567209)
+res/drawable/ic_qs_hang.xml  (2344, 3537412382) -> (6432, 323638359)
+res/drawable/ic_qs_scanner.xml  (6632, 1540952795) -> (12492, 2552140738)
+res/drawable/ic_qs_screenrecorder.xml  (1416, 4081902849) -> (2244, 1918432412)
+res/drawable/ic_reboot.xml  (2932, 225202703) -> (2876, 3973224848)
+res/drawable/ic_shutdown.xml  (1868, 3834647782) -> (1860, 3702285571)
+res/drawable/ic_slider.xml  (668, 4166306108) -> (668, 276419634)
+res/drawable/ic_volume_slider_animate_icon.xml  (2492, 3621661525) -> (1676, 2512813530)
+res/drawable/media_player_background.xml  (448, 1370118046) -> (448, 540632426)
+res/drawable/miplay_cover_default.xml  (1332, 3499078073) -> (724, 1418897369)
+res/drawable/qs_background_disabled.xml  (448, 2913414045) -> (448, 1046266442)
+res/drawable/qs_background_enabled.xml  (448, 2969232857) -> (448, 1046266442)
+res/drawable/qs_card_background_disabled.xml  (448, 3549812432) -> (448, 2419839407)
+res/drawable/qs_card_background_enabled.xml  (448, 3469219988) -> (448, 2419839407)
+res/drawable/qs_card_background_restricted.xml  (448, 4101211164) -> (448, 2419839407)
+res/layout/device_controls_entry.xml  (1772, 513093675) -> (2740, 1336418031)
+res/layout/main_panel.xml  (584, 4260038306) -> (584, 3052323453)
+res/layout/main_panel_customize_header.xml  (1976, 478023677) -> (2664, 2192165672)
+res/layout/media_player_view.xml  (4868, 1733472464) -> (5100, 2399911012)
+res/layout/miplay_entrance_view.xml  (2372, 415833678) -> (3224, 1165724424)
+res/layout/miplay_view.xml  (3204, 4031437956) -> (8552, 1134033964)
+res/layout/qs_card_item_view.xml  (1944, 1071855683) -> (1988, 2241101324)
+res/layout/qs_control_detail_header_metainfo_layout.xml  (8276, 2536599059) -> (8320, 3520374717)
+res/layout/qs_control_detail_header_metainfo_layout_support_land.xml  (8276, 3178004483) -> (8320, 3640174650)
+res/layout/qs_control_detail_miplay_content.xml  (1252, 614015057) -> (1252, 2402014305)
+res/layout/qs_control_detail_miplay_content_support_land.xml  (1432, 3446021735) -> (820, 432139485)
+res/layout/qs_control_detail_miplay_device_item.xml  (4704, 273113926) -> (4704, 183908334)
+res/layout/qs_control_detail_miplay_device_volume_item.xml  (908, 2227388102) -> (908, 471933973)
+res/layout/qs_control_detail_miplay_header_support_land.xml  (2220, 2975782701) -> (11192, 4245784081)
+res/layout/qs_customize_button.xml  (1436, 1297228196) -> (2300, 1009897655)
+res/layout/security_footer.xml  (1152, 83669432) -> (2284, 3737434028)
+res/layout/toggle_slider_item_view.xml  (3468, 2532455161) -> (3528, 3070362773)
+res/raw/music_player_tracker.frag  (3629, 3471656130) -> (3439, 2495173358)
+resources.arsc  (4788196, 866004506) -> (6863604, 1320776622)

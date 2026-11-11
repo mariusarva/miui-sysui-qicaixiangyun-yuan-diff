@@ -1,0 +1,21 @@
+--- dec_orig/apktool.yml	2026-11-11 02:18:18.932999394 +0000
++++ dec_mod/apktool.yml	2026-11-11 02:18:21.856999393 +0000
+@@ -1,5 +1,5 @@
+ version: 3.0.3
+-apkFileName: 系统界面组件_18.3.2.57.0_anti.apk
++apkFileName: 七彩祥云_圆.apk
+ usesFramework:
+   ids:
+   - 1
+@@ -105,4 +105,11 @@
+ - META-INF/version-control-info.textproto
+ - assets/dexopt/baseline.prof
+ - assets/dexopt/baseline.profm
++- res/drawable/ic_qs_perf_off.xml
++- res/drawable/ic_qs_perf_on.xml
++- res/drawable/ic_qs_power_tile.xml
++- res/drawable/ic_qs_restart_tile.xml
++- res/drawable/ic_qs_restartlauncher_tile.xml
++- res/drawable/ic_qs_saver_off.xml
++- res/drawable/ic_qs_saver_on.xml
+ - res/raw/particle.zstc

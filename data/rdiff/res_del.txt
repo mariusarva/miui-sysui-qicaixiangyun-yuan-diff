@@ -1,0 +1,3 @@
+drawable/ic_device_center_item_background_default.xml
+drawable/ic_reboot_small.xml
+drawable/ic_shutdown_small.xml
